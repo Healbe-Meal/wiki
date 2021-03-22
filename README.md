@@ -6,6 +6,6 @@
 
 - [клиент](https://github.com/Healbe-Meal/client)
 - [сервер]()
-- [стек технологий]()
+- [стек технологий](https://github.com/Healbe-Meal/wiki/blob/main/docs/stack.md)
 - [анонс]()
 
