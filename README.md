@@ -4,8 +4,13 @@
 
 ## Навигация
 
+- [команда]()
 - [клиент](https://github.com/Healbe-Meal/client)
 - [сервер]()
 - [стек технологий](https://github.com/Healbe-Meal/wiki/blob/main/docs/stack.md)
-- [анонс]()
+
+### Версии
+
+- [версия 1]()
+- [версия 2 (анонс)]()
 
