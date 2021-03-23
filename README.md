@@ -4,7 +4,7 @@
 
 ## Навигация
 
-- [команда]()
+- [команда](https://github.com/Healbe-Meal/wiki/blob/main/docs/team.md)
 - [клиент](https://github.com/Healbe-Meal/client)
 - [сервер]()
 - [стек технологий](https://github.com/Healbe-Meal/wiki/blob/main/docs/stack.md)
